@@ -1,28 +1,83 @@
-[
+{
+  "quizes":[
   {
+    "id": 101,
   "title":"Bollywood Fun Trivia",
   "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
   "rating":4.2
   },
   {
+    "id": 102,
   "title":"Bollywood Fun Trivia2",
-  "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+  "url":"https://media.istockphoto.com/id/1461264608/photo/beautiful-woman-is-dancing-in-traditional-indian-dress.jpg?s=1024x1024&w=is&k=20&c=KQYKXkOohHDS-vP5_2wGrqQ1Tjerv4_mMXUY0C_nAjg=",
   "rating":4.2
   },
   {
+    "id": 103,
   "title":"Bollywood Fun Trivia3",
-  "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+  "url":"https://media.istockphoto.com/id/1438235060/photo/global-communication.jpg?s=1024x1024&w=is&k=20&c=VQB8Yws7WKdN1pEdybwKthbjcozriV8S4eoUuODHPVs=",
   "rating":4.2
   },
   {
+    "id": 104,
   "title":"Bollywood Fun Trivia4",
-  "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+  "url":"https://cdn.pixabay.com/photo/2017/12/29/12/13/nature-3047449_1280.jpg",
   "rating":4.2
   },
   {
+    "id": 105,
   "title":"Bollywood Fun Trivia5",
-  "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+  "url":"https://media.istockphoto.com/id/1440503559/photo/forest-sunlight.jpg?s=1024x1024&w=is&k=20&c=A4w_q46OjfcM3MnsfuvyggEQv0S5wudh9WlZFCbtxzY=",
   "rating":4.9
-  }
+  }],
+  "questions": [
 
-]
+    {
+      "id": 1,
+    "question":"What is Hrithik's last name?",
+    "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+    "options":["Bhatia","Sharma","Roshan","Pandey"],
+    "answer": "3",
+    "points": 1,
+    "quiz_id":101
+    },
+    {
+      "id": 2,
+    "question":"Question 2",
+    "url":"https://media.istockphoto.com/id/1461264608/photo/beautiful-woman-is-dancing-in-traditional-indian-dress.jpg?s=1024x1024&w=is&k=20&c=KQYKXkOohHDS-vP5_2wGrqQ1Tjerv4_mMXUY0C_nAjg=",
+    "options":["op1","op2","op3","op4"],
+    "answer": "2",
+    "points": 1,
+    "quiz_id":101
+    },
+    {
+      "id": 3,
+    "question":"Question 3",
+    "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+    "options":["op31","op32","op33","op34"],
+    "answer": "1",
+    "points": 1,    
+    "quiz_id":101
+    },
+    {
+      "id": 4,
+    "question":"Question 4",
+    "url":"https://media.istockphoto.com/id/1461264608/photo/beautiful-woman-is-dancing-in-traditional-indian-dress.jpg?s=1024x1024&w=is&k=20&c=KQYKXkOohHDS-vP5_2wGrqQ1Tjerv4_mMXUY0C_nAjg=",
+    "options":["op41","op42","op43","op44"],
+    "answer": "4",
+    "points": 1,    
+    "quiz_id":101
+    },
+    {
+      "id": 5,
+    "question":"Question 5",
+    "url":"https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+    "options":["op1","op2","op3","op4"],
+    "answer": "b",
+    "points": 1,    
+    "quiz_id":102
+    }
+
+  ]
+
+}
