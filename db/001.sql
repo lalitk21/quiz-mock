@@ -1,5 +1,5 @@
 CREATE TABLE quiz (
-    id int auto_increment,
+    id int auto_increment PRIMARY KEY,
     title varchar(100),
     url varchar(100),
     rating double default 3.0,
