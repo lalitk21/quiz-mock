@@ -1,7 +1,7 @@
 CREATE TABLE quiz (
     id int auto_increment PRIMARY KEY,
     title varchar(100),
-    url varchar(100),
+    url varchar(250),
     rating double default 3.0,
     created_at timestamp default current_timestamp,
     created_by varchar(100),
@@ -13,7 +13,7 @@ CREATE TABLE quiz (
 CREATE TABLE question (
     id int auto_increment PRIMARY KEY,
     question varchar(250),
-    url varchar(100),
+    url varchar(250),
     option1 varchar(100),
     option2 varchar(100),
     option3 varchar(100),
