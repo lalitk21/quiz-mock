@@ -29,13 +29,13 @@
     {
       "id": 1,
       "question": "Which Bollywood movie won the Academy Award for Best Foreign Language Film?",
-      "url": "https://example.com/movie_image1.jpg",
-      "options": [
+      "url": "https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+      "option1":
         "Lagaan",
-        "Gully Boy",
-        "Mother India",
-        "Dilwale Dulhania Le Jayenge"
-      ],
+        "option2":"Gully Boy",
+        "option3":"Mother India",
+        "option4":"Dilwale Dulhania Le Jayenge"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 101
@@ -43,13 +43,13 @@
     {
       "id": 2,
       "question": "In which movie does Aamir Khan play the character named 'PK'?",
-      "url": "https://example.com/movie_image2.jpg",
-      "options": [
+      "url": "https://media.istockphoto.com/id/689019358/photo/bollywood.jpg?s=1024x1024&w=is&k=20&c=LjyEi7XyU_sEXPmF_dzeu8pcncqZxPN64hamrdLr0Yg=",
+      "option1":
         "3 Idiots",
-        "Dangal",
-        "PK",
-        "Secret Superstar"
-      ],
+        "option2": "Dangal",
+        "option3": "PK",
+        "option4": "Secret Superstar"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 101
@@ -58,26 +58,26 @@
       "id": 3,
       "question": "Who directed the film 'DDLJ' (Dilwale Dulhania Le Jayenge)?",
       "url": "https://example.com/movie_image3.jpg",
-      "options": [
+      "option1":
         "Karan Johar",
-        "Yash Chopra",
-        "Aditya Chopra",
-        "Rajkumar Hirani"
-      ],
+        "option2": "Yash Chopra",
+        "option3": "Aditya Chopra",
+        "option4": "Rajkumar Hirani"
+      ,
       "answer": "2",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 4,
       "question": "Which Bollywood movie features the iconic dialogue 'Mere paas maa hai'?",
       "url": "https://example.com/movie_image4.jpg",
-      "options": [
+      "option1":
         "Deewar",
-        "Sholay",
-        "Piku",
-        "Dil Chahta Hai"
-      ],
+        "option2": "Sholay",
+        "option3": "Piku",
+        "option4": "Dil Chahta Hai"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 101
@@ -86,376 +86,376 @@
       "id": 5,
       "question": "Who played the role of 'Bhuvan' in the film 'Lagaan'?",
       "url": "https://example.com/movie_image5.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Aamir Khan",
-        "Shah Rukh Khan",
-        "Hrithik Roshan"
-      ],
+        "option2": "Aamir Khan",
+        "option3": "Shah Rukh Khan",
+        "option4": "Hrithik Roshan"
+      ,
       "answer": "2",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 6,
       "question": "Which movie is known for the song 'Tum Hi Ho' sung by Arijit Singh?",
       "url": "https://example.com/movie_image6.jpg",
-      "options": [
+      "option1":
         "Aashiqui 2",
-        "Roy",
-        "Barfi!",
-        "Rockstar"
-      ],
+        "option2": "Roy",
+        "option3": "Barfi!",
+        "option4": "Rockstar"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 7,
       "question": "In the film 'Kuch Kuch Hota Hai,' what is the name of Shah Rukh Khan's character?",
       "url": "https://example.com/movie_image7.jpg",
-      "options": [
+      "option1":
         "Rahul",
-        "Raj",
-        "Rohan",
-        "Ravi"
-      ],
+        "option2": "Raj",
+        "option3": "Rohan",
+        "option4": "Ravi"
+      ,
       "answer": "1",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 8,
       "question": "Who directed the movie 'Gully Boy'?",
       "url": "https://example.com/movie_image8.jpg",
-      "options": [
+      "option1":
         "Zoya Akhtar",
-        "Anurag Kashyap",
-        "Karan Johar",
-        "Imtiaz Ali"
-      ],
+        "option2": "Anurag Kashyap",
+        "option3": "Karan Johar",
+        "option4": "Imtiaz Ali"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 9,
       "question": "In the movie 'Kabhi Khushi Kabhie Gham,' who played the character 'Rahul'?",
       "url": "https://example.com/movie_image9.jpg",
-      "options": [
+      "option1":
         "Hrithik Roshan",
-        "Shah Rukh Khan",
-        "Amitabh Bachchan",
-        "Abhishek Bachchan"
-      ],
+        "option2": "Shah Rukh Khan",
+        "option3": "Amitabh Bachchan",
+        "option4": "Abhishek Bachchan"
+      ,
       "answer": "2",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 10,
       "question": "Which Bollywood movie is a biopic on the life of the legendary athlete Milkha Singh?",
       "url": "https://example.com/movie_image10.jpg",
-      "options": [
+      "option1":
         "Bhaag Milkha Bhaag",
-        "Paan Singh Tomar",
-        "Mary Kom",
-        "Dangal"
-      ],
+        "option2": "Paan Singh Tomar",
+        "option3": "Mary Kom",
+        "option4": "Dangal"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 11,
       "question": "In the movie 'Dil Chahta Hai,' what is the profession of the character played by Aamir Khan?",
       "url": "https://example.com/movie_image11.jpg",
-      "options": [
+      "option1":
         "Engineer",
-        "Doctor",
-        "Photographer",
-        "Architect"
-      ],
+        "option2": "Doctor",
+        "option3": "Photographer",
+        "option4": "Architect"
+      ,
       "answer": "4",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 12,
       "question": "Which Bollywood film features the famous dialogue 'Don ko pakadna mushkil hi nahin, namumkin hai'?",
       "url": "https://example.com/movie_image12.jpg",
-      "options": [
+      "option1":
         "Don",
-        "Don 2",
-        "Don (1978)",
-        "Dostana"
-      ],
+        "option2": "Don 2",
+        "option3": "Don (1978)",
+        "option4": "Dostana"
+      ,
       "answer": "3",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 13,
       "question": "Who directed the critically acclaimed movie 'Piku'?",
       "url": "https://example.com/movie_image13.jpg",
-      "options": [
+      "option1":
         "Shoojit Sircar",
-        "Anurag Kashyap",
-        "Imtiaz Ali",
-        "Karan Johar"
-      ],
+        "option2": "Anurag Kashyap",
+        "option3": "Imtiaz Ali",
+        "option4": "Karan Johar"
+      ,
       "answer": "1",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 14,
       "question": "Which Bollywood actor made his debut with the film 'Student of the Year'?",
       "url": "https://example.com/movie_image14.jpg",
-      "options": [
+      "option1":
         "Varun Dhawan",
-        "Tiger Shroff",
-        "Sidharth Malhotra",
-        "Arjun Kapoor"
-      ],
+        "option2": "Tiger Shroff",
+        "option3": "Sidharth Malhotra",
+        "option4": "Arjun Kapoor"
+      ,
       "answer": "3",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 15,
       "question": "In the movie 'Koi Mil Gaya,' what is the name of Hrithik Roshan's character?",
       "url": "https://example.com/movie_image15.jpg",
-      "options": [
+      "option1":
         "Rohan",
-        "Raj",
-        "Rahul",
-        "Ravi"
-      ],
+        "option2": "Raj",
+        "option3": "Rahul",
+        "option4": "Ravi"
+      ,
       "answer": "1",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 16,
       "question": "Which Bollywood film is a remake of the Hollywood movie 'Knight and Day'?",
       "url": "https://example.com/movie_image16.jpg",
-      "options": [
+      "option1":
         "War",
-        "Bang Bang!",
-        "Ek Tha Tiger",
-        "Dhoom 3"
-      ],
+        "option2": "Bang Bang!",
+        "option3": "Ek Tha Tiger",
+        "option4": "Dhoom 3"
+      ,
       "answer": "2",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 17,
       "question": "Who played the lead role in the film 'Queen'?",
       "url": "https://example.com/movie_image17.jpg",
-      "options": [
+      "option1":
         "Deepika Padukone",
-        "Alia Bhatt",
-        "Kangana Ranaut",
-        "Priyanka Chopra"
-      ],
+        "option2": "Alia Bhatt",
+        "option3": "Kangana Ranaut",
+        "option4": "Priyanka Chopra"
+      ,
       "answer": "3",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 18,
       "question": "Which Bollywood movie features the song 'Chaiyya Chaiyya'?",
       "url": "https://example.com/movie_image18.jpg",
-      "options": [
+      "option1":
         "Dil Se",
-        "Kabhi Khushi Kabhie Gham",
-        "Kuch Kuch Hota Hai",
-        "Dil To Pagal Hai"
-      ],
+        "option2": "Kabhi Khushi Kabhie Gham",
+        "option3": "Kuch Kuch Hota Hai",
+        "option4": "Dil To Pagal Hai"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 19,
       "question": "In the film 'Andaz Apna Apna,' who played the character 'Crime Master Gogo'?",
       "url": "https://example.com/movie_image19.jpg",
-      "options": [
+      "option1":
         "Shakti Kapoor",
-        "Mukesh Khanna",
-        "Gulshan Grover",
-        "Paresh Rawal"
-      ],
+        "option2": "Mukesh Khanna",
+        "option3": "Gulshan Grover",
+        "option4": "Paresh Rawal"
+      ,
       "answer": "3",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 20,
       "question": "Which Bollywood movie features the character 'Mogambo'?",
       "url": "https://example.com/movie_image20.jpg",
-      "options": [
+      "option1":
         "Mr. India",
-        "Shaan",
-        "Krrish",
-        "Dhoom 3"
-      ],
+        "option2": "Shaan",
+        "option3": "Krrish",
+        "option4": "Dhoom 3"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 21,
       "question": "Which Bollywood movie is a historical drama based on the life of Rani Padmini?",
       "url": "https://example.com/movie_image21.jpg",
-      "options": [
+      "option1":
         "Padmaavat",
-        "Bajirao Mastani",
-        "Jodhaa Akbar",
-        "Mughal-e-Azam"
-      ],
+        "option2": "Bajirao Mastani",
+        "option3": "Jodhaa Akbar",
+        "option4": "Mughal-e-Azam"
+      ,
       "answer": "1",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 22,
       "question": "Who directed the film 'My Name Is Khan'?",
       "url": "https://example.com/movie_image22.jpg",
-      "options": [
+      "option1":
         "Karan Johar",
-        "Rohit Shetty",
-        "Imtiaz Ali",
-        "Farah Khan"
-      ],
+        "option2": "Rohit Shetty",
+        "option3": "Imtiaz Ali",
+        "option4": "Farah Khan"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 23,
       "question": "In the movie '3 Idiots,' what is the real name of the character 'Rancho'?",
       "url": "https://example.com/movie_image23.jpg",
-      "options": [
+      "option1":
         "Raj Malhotra",
-        "Ranbir Kapoor",
-        "Ranchhoddas Shyamaldas Chanchad",
-        "Rahul Sharma"
-      ],
+        "option2": "Ranbir Kapoor",
+        "option3": "Ranchhoddas Shyamaldas Chanchad",
+        "option4": "Rahul Sharma"
+      ,
       "answer": "3",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 24,
       "question": "Which Bollywood film is known for the dialogue 'Aaj ek hasi aur baant lo'?",
       "url": "https://example.com/movie_image24.jpg",
-      "options": [
+      "option1":
         "Kal Ho Naa Ho",
-        "Hum Tum",
-        "Jab We Met",
-        "Yeh Jawaani Hai Deewani"
-      ],
+        "option2": "Hum Tum",
+        "option3": "Jab We Met",
+        "option4": "Yeh Jawaani Hai Deewani"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 25,
       "question": "Who played the character 'Geet' in the film 'Jab We Met'?",
       "url": "https://example.com/movie_image25.jpg",
-      "options": [
+      "option1":
         "Kareena Kapoor Khan",
-        "Deepika Padukone",
-        "Katrina Kaif",
-        "Alia Bhatt"
-      ],
+        "option2": "Deepika Padukone",
+        "option3": "Katrina Kaif",
+        "option4": "Alia Bhatt"
+      ,
       "answer": "1",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 26,
       "question": "Which Bollywood movie features the song 'Mera Joota Hai Japani'?",
       "url": "https://example.com/movie_image26.jpg",
-      "options": [
+      "option1":
         "Mughal-e-Azam",
-        "Shree 420",
-        "Awaara",
-        "Mother India"
-      ],
+        "option2": "Shree 420",
+        "option3": "Awaara",
+        "option4": "Mother India"
+      ,
       "answer": "2",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 27,
       "question": "Who played the role of 'Kabir Khan' in the film 'Chak De! India'?",
       "url": "https://example.com/movie_image27.jpg",
-      "options": [
+      "option1":
         "Shah Rukh Khan",
-        "Amitabh Bachchan",
-        "Aamir Khan",
-        "Salman Khan"
-      ],
+        "option2": "Amitabh Bachchan",
+        "option3": "Aamir Khan",
+        "option4": "Salman Khan"
+      ,
       "answer": "1",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 28,
       "question": "Which Bollywood film features the character 'Munna Bhai'?",
       "url": "https://example.com/movie_image28.jpg",
-      "options": [
+      "option1":
         "Lage Raho Munna Bhai",
-        "Munna Bhai M.B.B.S.",
-        "PK",
-        "3 Idiots"
-      ],
+        "option2": "Munna Bhai M.B.B.S.",
+        "option3": "PK",
+        "option4": "3 Idiots"
+      ,
       "answer": "2",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 29,
       "question": "Who directed the film 'Barfi!'?",
       "url": "https://example.com/movie_image29.jpg",
-      "options": [
+      "option1":
         "Anurag Kashyap",
-        "Anurag Basu",
-        "Vikramaditya Motwane",
-        "Dibakar Banerjee"
-      ],
+        "option2": "Anurag Basu",
+        "option3": "Vikramaditya Motwane",
+        "option4": "Dibakar Banerjee"
+      ,
       "answer": "2",
       "points": 1,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 30,
       "question": "Which Bollywood movie is known for the dialogue 'Bade bade deshon mein aisi chhoti chhoti baatein hoti rehti hai, Senorita'?",
       "url": "https://example.com/movie_image30.jpg",
-      "options": [
+      "option1":
         "Dilwale Dulhania Le Jayenge",
-        "Kabhi Khushi Kabhie Gham",
-        "Dil To Pagal Hai",
-        "Kal Ho Naa Ho"
-      ],
+        "option2": "Kabhi Khushi Kabhie Gham",
+        "option3": "Dil To Pagal Hai",
+        "option4": "Kal Ho Naa Ho"
+      ,
       "answer": "1",
       "points": 2,
-      "quiz_id": 101
+      "quiz_id": 105
     },
     {
       "id": 31,
       "question": "Which Bollywood actor is known as the 'Khiladi' of Bollywood?",
       "url": "https://example.com/actor_image31.jpg",
-      "options": [
+      "option1":
         "Shah Rukh Khan",
-        "Salman Khan",
-        "Akshay Kumar",
-        "Amitabh Bachchan"
-      ],
+        "option2": "Salman Khan",
+        "option3": "Akshay Kumar",
+        "option4": "Amitabh Bachchan"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 102
@@ -464,12 +464,12 @@
       "id": 32,
       "question": "Who won the National Film Award for Best Actor for his role in 'Paa'?",
       "url": "https://example.com/actor_image32.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Irrfan Khan",
-        "Ranbir Kapoor",
-        "Shahid Kapoor"
-      ],
+        "option2": "Irrfan Khan",
+        "option3": "Ranbir Kapoor",
+        "option4": "Shahid Kapoor"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -478,12 +478,12 @@
       "id": 33,
       "question": "In the film 'Dabangg,' who played the character 'Chulbul Pandey'?",
       "url": "https://example.com/actor_image33.jpg",
-      "options": [
+      "option1":
         "Salman Khan",
-        "Shah Rukh Khan",
-        "Akshay Kumar",
-        "Amitabh Bachchan"
-      ],
+        "option2": "Shah Rukh Khan",
+        "option3": "Akshay Kumar",
+        "option4": "Amitabh Bachchan"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -492,12 +492,12 @@
       "id": 34,
       "question": "Who is the highest-grossing actor of Indian cinema?",
       "url": "https://example.com/actor_image34.jpg",
-      "options": [
+      "option1":
         "Shah Rukh Khan",
-        "Salman Khan",
-        "Aamir Khan",
-        "Akshay Kumar"
-      ],
+        "option2": "Salman Khan",
+        "option3": "Aamir Khan",
+        "option4": "Akshay Kumar"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -506,12 +506,12 @@
       "id": 35,
       "question": "In the movie 'Gully Boy,' who played the character 'Murad Ahmed'?",
       "url": "https://example.com/actor_image35.jpg",
-      "options": [
+      "option1":
         "Ranveer Singh",
-        "Vicky Kaushal",
-        "Ayushmann Khurrana",
-        "Sushant Singh Rajput"
-      ],
+        "option2": "Vicky Kaushal",
+        "option3": "Ayushmann Khurrana",
+        "option4": "Sushant Singh Rajput"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -520,12 +520,12 @@
       "id": 36,
       "question": "Which Bollywood actor is known for his role as 'Munna Bhai'?",
       "url": "https://example.com/actor_image36.jpg",
-      "options": [
+      "option1":
         "Sanjay Dutt",
-        "Ranbir Kapoor",
-        "Arshad Warsi",
-        "Sunil Dutt"
-      ],
+        "option2": "Ranbir Kapoor",
+        "option3": "Arshad Warsi",
+        "option4": "Sunil Dutt"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 102
@@ -534,12 +534,12 @@
       "id": 37,
       "question": "Who won the National Film Award for Best Actor for his role in 'Andhadhun'?",
       "url": "https://example.com/actor_image37.jpg",
-      "options": [
+      "option1":
         "Ayushmann Khurrana",
-        "Rajkummar Rao",
-        "Vicky Kaushal",
-        "Irrfan Khan"
-      ],
+        "option2": "Rajkummar Rao",
+        "option3": "Vicky Kaushal",
+        "option4": "Irrfan Khan"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -548,12 +548,12 @@
       "id": 38,
       "question": "Which Bollywood actor is known for his role as 'Bhuvan' in the film 'Lagaan'?",
       "url": "https://example.com/actor_image38.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Aamir Khan",
-        "Shah Rukh Khan",
-        "Hrithik Roshan"
-      ],
+        "option2": "Aamir Khan",
+        "option3": "Shah Rukh Khan",
+        "option4": "Hrithik Roshan"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 102
@@ -562,12 +562,12 @@
       "id": 39,
       "question": "In the film 'Dilwale Dulhania Le Jayenge,' who played the character 'Raj Malhotra'?",
       "url": "https://example.com/actor_image39.jpg",
-      "options": [
+      "option1":
         "Shah Rukh Khan",
-        "Aamir Khan",
-        "Salman Khan",
-        "Akshay Kumar"
-      ],
+        "option2": "Aamir Khan",
+        "option3": "Salman Khan",
+        "option4": "Akshay Kumar"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -576,12 +576,12 @@
       "id": 40,
       "question": "Who made his Bollywood debut with the film 'Saat Hindustani'?",
       "url": "https://example.com/actor_image40.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Dharmendra",
-        "Rajesh Khanna",
-        "Shashi Kapoor"
-      ],
+        "option2": "Dharmendra",
+        "option3": "Rajesh Khanna",
+        "option4": "Shashi Kapoor"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -590,12 +590,12 @@
       "id": 41,
       "question": "Which actor won the National Film Award for Best Actor for his role in 'Shahid'?",
       "url": "https://example.com/actor_image41.jpg",
-      "options": [
+      "option1":
         "Irrfan Khan",
-        "Rajkummar Rao",
-        "Ayushmann Khurrana",
-        "Manoj Bajpayee"
-      ],
+        "option2": "Rajkummar Rao",
+        "option3": "Ayushmann Khurrana",
+        "option4": "Manoj Bajpayee"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 102
@@ -604,12 +604,12 @@
       "id": 42,
       "question": "In the film 'Raazi,' who played the character 'Iqbal Syed'?",
       "url": "https://example.com/actor_image42.jpg",
-      "options": [
+      "option1":
         "Vicky Kaushal",
-        "Ranbir Kapoor",
-        "Rajkummar Rao",
-        "Ayushmann Khurrana"
-      ],
+        "option2": "Ranbir Kapoor",
+        "option3": "Rajkummar Rao",
+        "option4": "Ayushmann Khurrana"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -618,12 +618,12 @@
       "id": 43,
       "question": "Which Bollywood actor is known for his role as 'Langda Tyagi' in the film 'Omkara'?",
       "url": "https://example.com/actor_image43.jpg",
-      "options": [
+      "option1":
         "Ajay Devgn",
-        "Irrfan Khan",
-        "Manoj Bajpayee",
-        "Saif Ali Khan"
-      ],
+        "option2": "Irrfan Khan",
+        "option3": "Manoj Bajpayee",
+        "option4": "Saif Ali Khan"
+      ,
       "answer": "4",
       "points": 1,
       "quiz_id": 102
@@ -632,12 +632,12 @@
       "id": 44,
       "question": "Who played the character 'Bhuvan' in the film 'Lagaan'?",
       "url": "https://example.com/actor_image44.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Aamir Khan",
-        "Shah Rukh Khan",
-        "Hrithik Roshan"
-      ],
+        "option2": "Aamir Khan",
+        "option3": "Shah Rukh Khan",
+        "option4": "Hrithik Roshan"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 102
@@ -646,12 +646,12 @@
       "id": 45,
       "question": "In the movie 'Barfi!,' who played the character 'Barfi'?",
       "url": "https://example.com/actor_image45.jpg",
-      "options": [
+      "option1":
         "Ranbir Kapoor",
-        "Ayushmann Khurrana",
-        "Rajkummar Rao",
-        "Sushant Singh Rajput"
-      ],
+        "option2": "Ayushmann Khurrana",
+        "option3": "Rajkummar Rao",
+        "option4": "Sushant Singh Rajput"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -660,12 +660,12 @@
       "id": 46,
       "question": "Which Bollywood actor is known for his role as 'Sanju' in the film 'Sanju'?",
       "url": "https://example.com/actor_image46.jpg",
-      "options": [
+      "option1":
         "Ranbir Kapoor",
-        "Ranveer Singh",
-        "Varun Dhawan",
-        "Ayushmann Khurrana"
-      ],
+        "option2": "Ranveer Singh",
+        "option3": "Varun Dhawan",
+        "option4": "Ayushmann Khurrana"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -674,12 +674,12 @@
       "id": 47,
       "question": "Who made his Bollywood debut with the film 'Rocky'?",
       "url": "https://example.com/actor_image47.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Dharmendra",
-        "Mithun Chakraborty",
-        "Rajesh Khanna"
-      ],
+        "option2": "Dharmendra",
+        "option3": "Mithun Chakraborty",
+        "option4": "Rajesh Khanna"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 102
@@ -688,12 +688,12 @@
       "id": 48,
       "question": "Which actor starred in the film 'Dil Dhadakne Do' as 'Kabir Mehra'?",
       "url": "https://example.com/actor_image48.jpg",
-      "options": [
+      "option1":
         "Ranbir Kapoor",
-        "Farhan Akhtar",
-        "Ranveer Singh",
-        "Hrithik Roshan"
-      ],
+        "option2": "Farhan Akhtar",
+        "option3": "Ranveer Singh",
+        "option4": "Hrithik Roshan"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 102
@@ -702,12 +702,12 @@
       "id": 49,
       "question": "In the movie 'Gully Boy,' who played the character 'MC Sher'?",
       "url": "https://example.com/actor_image49.jpg",
-      "options": [
+      "option1":
         "Siddhant Chaturvedi",
-        "Vicky Kaushal",
-        "Rajkummar Rao",
-        "Ayushmann Khurrana"
-      ],
+        "option2": "Vicky Kaushal",
+        "option3": "Rajkummar Rao",
+        "option4": "Ayushmann Khurrana"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -716,12 +716,12 @@
       "id": 50,
       "question": "Who played the role of 'Bhagat Singh' in the film 'The Legend of Bhagat Singh'?",
       "url": "https://example.com/actor_image50.jpg",
-      "options": [
+      "option1":
         "Amitabh Bachchan",
-        "Akshay Kumar",
-        "Sunny Deol",
-        "Ajay Devgn"
-      ],
+        "option2": "Akshay Kumar",
+        "option3": "Sunny Deol",
+        "option4": "Ajay Devgn"
+      ,
       "answer": "4",
       "points": 1,
       "quiz_id": 102
@@ -730,12 +730,12 @@
       "id": 51,
       "question": "In the movie 'Dangal,' who played the role of 'Mahavir Singh Phogat'?",
       "url": "https://example.com/actor_image51.jpg",
-      "options": [
+      "option1":
         "Aamir Khan",
-        "Salman Khan",
-        "Shah Rukh Khan",
-        "Akshay Kumar"
-      ],
+        "option2": "Salman Khan",
+        "option3": "Shah Rukh Khan",
+        "option4": "Akshay Kumar"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -744,12 +744,12 @@
       "id": 52,
       "question": "Which actor is known as the 'Greek God of Bollywood'?",
       "url": "https://example.com/actor_image52.jpg",
-      "options": [
+      "option1":
         "Hrithik Roshan",
-        "Ranveer Singh",
-        "Varun Dhawan",
-        "Tiger Shroff"
-      ],
+        "option2": "Ranveer Singh",
+        "option3": "Varun Dhawan",
+        "option4": "Tiger Shroff"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -758,12 +758,12 @@
       "id": 53,
       "question": "Who played the character 'Rancho' in the film '3 Idiots'?",
       "url": "https://example.com/actor_image53.jpg",
-      "options": [
+      "option1":
         "Aamir Khan",
-        "Ranbir Kapoor",
-        "Shah Rukh Khan",
-        "Akshay Kumar"
-      ],
+        "option2": "Ranbir Kapoor",
+        "option3": "Shah Rukh Khan",
+        "option4": "Akshay Kumar"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -772,12 +772,12 @@
       "id": 54,
       "question": "In the movie 'Lootera,' who played the character 'Varun Shrivastav'?",
       "url": "https://example.com/actor_image54.jpg",
-      "options": [
+      "option1":
         "Ranveer Singh",
-        "Ranbir Kapoor",
-        "Varun Dhawan",
-        "Shahid Kapoor"
-      ],
+        "option2": "Ranbir Kapoor",
+        "option3": "Varun Dhawan",
+        "option4": "Shahid Kapoor"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 102
@@ -786,12 +786,12 @@
       "id": 55,
       "question": "Which Bollywood actor is known for his role as 'Bajirao' in the film 'Bajirao Mastani'?",
       "url": "https://example.com/actor_image55.jpg",
-      "options": [
+      "option1":
         "Ranveer Singh",
-        "Ranbir Kapoor",
-        "Varun Dhawan",
-        "Sushant Singh Rajput"
-      ],
+        "option2": "Ranbir Kapoor",
+        "option3": "Varun Dhawan",
+        "option4": "Sushant Singh Rajput"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -800,12 +800,12 @@
       "id": 56,
       "question": "Who won the National Film Award for Best Actor for his role in 'Haider'?",
       "url": "https://example.com/actor_image56.jpg",
-      "options": [
+      "option1":
         "Shah Rukh Khan",
-        "Shahid Kapoor",
-        "Ranbir Kapoor",
-        "Ayushmann Khurrana"
-      ],
+        "option2": "Shahid Kapoor",
+        "option3": "Ranbir Kapoor",
+        "option4": "Ayushmann Khurrana"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 102
@@ -814,12 +814,12 @@
       "id": 57,
       "question": "Which actor played the role of 'Milkha Singh' in the film 'Bhaag Milkha Bhaag'?",
       "url": "https://example.com/actor_image57.jpg",
-      "options": [
+      "option1":
         "Akshay Kumar",
-        "Farhan Akhtar",
-        "Hrithik Roshan",
-        "Varun Dhawan"
-      ],
+        "option2": "Farhan Akhtar",
+        "option3": "Hrithik Roshan",
+        "option4": "Varun Dhawan"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 102
@@ -828,12 +828,12 @@
       "id": 58,
       "question": "In the movie 'Badlapur,' who played the character 'Raghu'?",
       "url": "https://example.com/actor_image58.jpg",
-      "options": [
+      "option1":
         "Varun Dhawan",
-        "Ranveer Singh",
-        "Shahid Kapoor",
-        "Ayushmann Khurrana"
-      ],
+        "option2": "Ranveer Singh",
+        "option3": "Shahid Kapoor",
+        "option4": "Ayushmann Khurrana"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 102
@@ -842,12 +842,12 @@
       "id": 59,
       "question": "Who played the role of 'Ishaan Awasthi' in the film 'Taare Zameen Par'?",
       "url": "https://example.com/actor_image59.jpg",
-      "options": [
+      "option1":
         "Aamir Khan",
-        "Shah Rukh Khan",
-        "Salman Khan",
-        "Akshay Kumar"
-      ],
+        "option2": "Shah Rukh Khan",
+        "option3": "Salman Khan",
+        "option4": "Akshay Kumar"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 102
@@ -856,12 +856,12 @@
       "id": 60,
       "question": "Who is known as the 'Bhaijaan' of Bollywood?",
       "url": "https://example.com/actor_image60.jpg",
-      "options": [
+      "option1":
         "Shah Rukh Khan",
-        "Aamir Khan",
-        "Akshay Kumar",
-        "Salman Khan"
-      ],
+        "option2": "Aamir Khan",
+        "option3": "Akshay Kumar",
+        "option4": "Salman Khan"
+      ,
       "answer": "4",
       "points": 1,
       "quiz_id": 102
@@ -870,12 +870,12 @@
       "id": 61,
       "question": "Which Bollywood song features the iconic dance step 'The Moonwalk' performed by Michael Jackson?",
       "url": "https://example.com/song_image61.jpg",
-      "options": [
+      "option1":
         "Jai Ho",
-        "Mundian To Bach Ke",
-        "Thriller",
-        "Tunak Tunak Tun"
-      ],
+        "option2": "Mundian To Bach Ke",
+        "option3": "Thriller",
+        "option4": "Tunak Tunak Tun"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 103
@@ -884,12 +884,12 @@
       "id": 62,
       "question": "In the film 'Kabhi Khushi Kabhie Gham,' which song plays during the famous 'Boat Scene'?",
       "url": "https://example.com/song_image62.jpg",
-      "options": [
+      "option1":
         "Suraj Hua Maddham",
-        "Tere Bina",
-        "Yeh Ladka Hai Allah",
-        "Deewana Hai Dekho"
-      ],
+        "option2": "Tere Bina",
+        "option3": "Yeh Ladka Hai Allah",
+        "option4": "Deewana Hai Dekho"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -898,12 +898,12 @@
       "id": 63,
       "question": "Which Bollywood song begins with the lyrics 'Mere Haath Mein Tera Haath Ho'?",
       "url": "https://example.com/song_image63.jpg",
-      "options": [
+      "option1":
         "Tum Mile",
-        "Tere Liye",
-        "Kuch Kuch Hota Hai",
-        "Fanaa"
-      ],
+        "option2": "Tere Liye",
+        "option3": "Kuch Kuch Hota Hai",
+        "option4": "Fanaa"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 103
@@ -912,12 +912,12 @@
       "id": 64,
       "question": "Who sang the soulful track 'Tum Hi Ho' from the film 'Aashiqui 2'?",
       "url": "https://example.com/song_image64.jpg",
-      "options": [
+      "option1":
         "Arijit Singh",
-        "Atif Aslam",
-        "Sonu Nigam",
-        "Shreya Ghoshal"
-      ],
+        "option2": "Atif Aslam",
+        "option3": "Sonu Nigam",
+        "option4": "Shreya Ghoshal"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -926,12 +926,12 @@
       "id": 65,
       "question": "Which Bollywood song features the famous 'Palat – Tera Hero Idhar Hai' dialogue?",
       "url": "https://example.com/song_image65.jpg",
-      "options": [
+      "option1":
         "Jeene Laga Hoon",
-        "Badtameez Dil",
-        "Main Tera Hero",
-        "Tum Hi Ho Bandhu"
-      ],
+        "option2": "Badtameez Dil",
+        "option3": "Main Tera Hero",
+        "option4": "Tum Hi Ho Bandhu"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 103
@@ -940,12 +940,12 @@
       "id": 66,
       "question": "In the movie 'Dil To Pagal Hai,' which song features the rain dance sequence?",
       "url": "https://example.com/song_image66.jpg",
-      "options": [
+      "option1":
         "Le Gayi",
-        "Are Re Are",
-        "Pyar Kar",
-        "Koi Ladki Hai"
-      ],
+        "option2": "Are Re Are",
+        "option3": "Pyar Kar",
+        "option4": "Koi Ladki Hai"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 103
@@ -954,12 +954,12 @@
       "id": 67,
       "question": "Who sang the hit song 'Channa Mereya' from the film 'Ae Dil Hai Mushkil'?",
       "url": "https://example.com/song_image67.jpg",
-      "options": [
+      "option1":
         "Arijit Singh",
-        "Atif Aslam",
-        "Armaan Malik",
-        "Rahat Fateh Ali Khan"
-      ],
+        "option2": "Atif Aslam",
+        "option3": "Armaan Malik",
+        "option4": "Rahat Fateh Ali Khan"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -968,12 +968,12 @@
       "id": 68,
       "question": "Which Bollywood song features the line 'Kuch Kuch Hota Hai, Tum Nahi Samjhoge'?",
       "url": "https://example.com/song_image68.jpg",
-      "options": [
+      "option1":
         "Koi Mil Gaya",
-        "Kuch Kuch Hota Hai",
-        "Mehndi Laga Ke Rakhna",
-        "Chand Sifarish"
-      ],
+        "option2": "Kuch Kuch Hota Hai",
+        "option3": "Mehndi Laga Ke Rakhna",
+        "option4": "Chand Sifarish"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 103
@@ -982,12 +982,12 @@
       "id": 69,
       "question": "In the film 'Dil Chahta Hai,' which song is played during the end credits?",
       "url": "https://example.com/song_image69.jpg",
-      "options": [
+      "option1":
         "Koi Kahe Kehta Rahe",
-        "Jaane Kyon",
-        "Woh Ladki Hai Kahan",
-        "Tanha Dil"
-      ],
+        "option2": "Jaane Kyon",
+        "option3": "Woh Ladki Hai Kahan",
+        "option4": "Tanha Dil"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 103
@@ -996,12 +996,12 @@
       "id": 70,
       "question": "Who composed the music for the song 'Tere Bina' from the film 'Guru'?",
       "url": "https://example.com/song_image70.jpg",
-      "options": [
+      "option1":
         "A.R. Rahman",
-        "Pritam",
-        "Vishal-Shekhar",
-        "Shankar-Ehsaan-Loy"
-      ],
+        "option2": "Pritam",
+        "option3": "Vishal-Shekhar",
+        "option4": "Shankar-Ehsaan-Loy"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -1010,12 +1010,12 @@
       "id": 71,
       "question": "Which Bollywood song features the lyrics 'Tera Ban Jaunga, Kabira Maan Jaunga'?",
       "url": "https://example.com/song_image71.jpg",
-      "options": [
+      "option1":
         "Tum Hi Ho",
-        "Raabta",
-        "Bekhayali",
-        "Tera Ban Jaunga"
-      ],
+        "option2": "Raabta",
+        "option3": "Bekhayali",
+        "option4": "Tera Ban Jaunga"
+      ,
       "answer": "4",
       "points": 1,
       "quiz_id": 103
@@ -1024,12 +1024,12 @@
       "id": 72,
       "question": "In the movie 'Aashiqui,' which song is known for the line 'Tere Bina Kya Jeena'?",
       "url": "https://example.com/song_image72.jpg",
-      "options": [
+      "option1":
         "Dheere Dheere",
-        "Tum Hi Ho",
-        "Aashiqui Banaya Aapne",
-        "Tere Bina"
-      ],
+        "option2": "Tum Hi Ho",
+        "option3": "Aashiqui Banaya Aapne",
+        "option4": "Tere Bina"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 103
@@ -1038,12 +1038,12 @@
       "id": 73,
       "question": "Who sang the romantic song 'Tum Jo Aaye' from the film 'Once Upon a Time in Mumbaai'?",
       "url": "https://example.com/song_image73.jpg",
-      "options": [
+      "option1":
         "Arijit Singh",
-        "Atif Aslam",
-        "Sonu Nigam",
-        "Rahat Fateh Ali Khan"
-      ],
+        "option2": "Atif Aslam",
+        "option3": "Sonu Nigam",
+        "option4": "Rahat Fateh Ali Khan"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 103
@@ -1052,12 +1052,12 @@
       "id": 74,
       "question": "Which Bollywood song features the line 'Jeene Laga Hoon Pehle Se Zyada'?",
       "url": "https://example.com/song_image74.jpg",
-      "options": [
+      "option1":
         "Jeene Laga Hoon",
-        "Tera Ban Jaunga",
-        "Raabta",
-        "Tum Hi Ho"
-      ],
+        "option2": "Tera Ban Jaunga",
+        "option3": "Raabta",
+        "option4": "Tum Hi Ho"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -1066,12 +1066,12 @@
       "id": 75,
       "question": "In the film 'Jabariya Jodi,' which song features the lyrics 'Khadke Glassy'?",
       "url": "https://example.com/song_image75.jpg",
-      "options": [
+      "option1":
         "Khadke Glassy",
-        "Bekhayali",
-        "Tera Ban Jaunga",
-        "Bala"
-      ],
+        "option2": "Bekhayali",
+        "option3": "Tera Ban Jaunga",
+        "option4": "Bala"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -1080,12 +1080,12 @@
       "id": 76,
       "question": "Who composed the music for the song 'Channa Mereya' from the film 'Ae Dil Hai Mushkil'?",
       "url": "https://example.com/song_image76.jpg",
-      "options": [
+      "option1":
         "A.R. Rahman",
-        "Pritam",
-        "Vishal-Shekhar",
-        "Shankar-Ehsaan-Loy"
-      ],
+        "option2": "Pritam",
+        "option3": "Vishal-Shekhar",
+        "option4": "Shankar-Ehsaan-Loy"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 103
@@ -1094,12 +1094,12 @@
       "id": 77,
       "question": "Which Bollywood song features the line 'Zara Sa Jhoom Loon Main'?",
       "url": "https://example.com/song_image77.jpg",
-      "options": [
+      "option1":
         "Jhoom Barabar Jhoom",
-        "Zara Sa",
-        "Aaj Ki Raat",
-        "Yeh Ishq Hai"
-      ],
+        "option2": "Zara Sa",
+        "option3": "Aaj Ki Raat",
+        "option4": "Yeh Ishq Hai"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 103
@@ -1108,12 +1108,12 @@
       "id": 78,
       "question": "In the movie 'Rockstar,' which song is known for the line 'Nadaan Parindey'?",
       "url": "https://example.com/song_image78.jpg",
-      "options": [
+      "option1":
         "Tum Ho",
-        "Sadda Haq",
-        "Kun Faya Kun",
-        "Nadaan Parindey"
-      ],
+        "option2": "Sadda Haq",
+        "option3": "Kun Faya Kun",
+        "option4": "Nadaan Parindey"
+      ,
       "answer": "4",
       "points": 1,
       "quiz_id": 103
@@ -1122,12 +1122,12 @@
       "id": 79,
       "question": "Who sang the song 'Muskurane Ki Wajah Tum Ho' from the film 'CityLights'?",
       "url": "https://example.com/song_image79.jpg",
-      "options": [
+      "option1":
         "Arijit Singh",
-        "Atif Aslam",
-        "Sonu Nigam",
-        "Armaan Malik"
-      ],
+        "option2": "Atif Aslam",
+        "option3": "Sonu Nigam",
+        "option4": "Armaan Malik"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -1136,12 +1136,12 @@
       "id": 80,
       "question": "Which Bollywood song features the line 'Tum Mile To Lamhe Tham Gaye'?",
       "url": "https://example.com/song_image80.jpg",
-      "options": [
+      "option1":
         "Tum Mile",
-        "Tera Ban Jaunga",
-        "Raabta",
-        "Bekhayali"
-      ],
+        "option2": "Tera Ban Jaunga",
+        "option3": "Raabta",
+        "option4": "Bekhayali"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -1150,12 +1150,12 @@
       "id": 81,
       "question": "Which Bollywood song features the line 'Tum Jo Aaye Zindagi Mein Baat Ban Gayi'?",
       "url": "https://example.com/song_image81.jpg",
-      "options": [
+      "option1":
         "Tum Jo Aaye",
-        "Tum Hi Ho",
-        "Raabta",
-        "Bekhayali"
-      ],
+        "option2": "Tum Hi Ho",
+        "option3": "Raabta",
+        "option4": "Bekhayali"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -1164,12 +1164,12 @@
       "id": 82,
       "question": "In the film 'Dilwale Dulhania Le Jayenge,' which song plays during the mustard field scene?",
       "url": "https://example.com/song_image82.jpg",
-      "options": [
+      "option1":
         "Tujhe Dekha Toh",
-        "Mere Haath Mein",
-        "Tere Liye",
-        "Tum Hi Ho"
-      ],
+        "option2": "Mere Haath Mein",
+        "option3": "Tere Liye",
+        "option4": "Tum Hi Ho"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -1178,12 +1178,12 @@
       "id": 83,
       "question": "Who sang the song 'Jeene Laga Hoon' from the film 'Ramaiya Vastavaiya'?",
       "url": "https://example.com/song_image83.jpg",
-      "options": [
+      "option1":
         "Arijit Singh",
-        "Atif Aslam",
-        "Sonu Nigam",
-        "Armaan Malik"
-      ],
+        "option2": "Atif Aslam",
+        "option3": "Sonu Nigam",
+        "option4": "Armaan Malik"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -1192,12 +1192,12 @@
       "id": 84,
       "question": "Which Bollywood song features the line 'Tum Mile Toh Mil Gaya Yeh Jahan'?",
       "url": "https://example.com/song_image84.jpg",
-      "options": [
+      "option1":
         "Tum Mile",
-        "Tera Ban Jaunga",
-        "Raabta",
-        "Bekhayali"
-      ],
+        "option2": "Tera Ban Jaunga",
+        "option3": "Raabta",
+        "option4": "Bekhayali"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 103
@@ -1206,12 +1206,12 @@
       "id": 85,
       "question": "In the movie 'Yeh Jawaani Hai Deewani,' which song plays during the 'Bunny and Naina' train scene?",
       "url": "https://example.com/song_image85.jpg",
-      "options": [
+      "option1":
         "Kabira",
-        "Ilahi",
-        "Badtameez Dil",
-        "Subhanallah"
-      ],
+        "option2": "Ilahi",
+        "option3": "Badtameez Dil",
+        "option4": "Subhanallah"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -1220,12 +1220,12 @@
       "id": 86,
       "question": "Who composed the music for the song 'Tum Mile' from the film 'Tum Mile'?",
       "url": "https://example.com/song_image86.jpg",
-      "options": [
+      "option1":
         "A.R. Rahman",
-        "Pritam",
-        "Vishal-Shekhar",
-        "Shankar-Ehsaan-Loy"
-      ],
+        "option2": "Pritam",
+        "option3": "Vishal-Shekhar",
+        "option4": "Shankar-Ehsaan-Loy"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 103
@@ -1234,12 +1234,12 @@
       "id": 87,
       "question": "Which Bollywood song features the line 'Tera Hone Laga Hoon'?",
       "url": "https://example.com/song_image87.jpg",
-      "options": [
+      "option1":
         "Jeene Laga Hoon",
-        "Tera Ban Jaunga",
-        "Tum Hi Ho",
-        "Bekhayali"
-      ],
+        "option2": "Tera Ban Jaunga",
+        "option3": "Tum Hi Ho",
+        "option4": "Bekhayali"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -1248,12 +1248,12 @@
       "id": 88,
       "question": "In the movie 'Jab Tak Hai Jaan,' which song features the line 'Saans Mein Teri Saans Mili Toh'?",
       "url": "https://example.com/song_image88.jpg",
-      "options": [
+      "option1":
         "Challa",
-        "Jiya Re",
-        "Saans",
-        "Ishq Shava"
-      ],
+        "option2": "Jiya Re",
+        "option3": "Saans",
+        "option4": "Ishq Shava"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 103
@@ -1262,12 +1262,12 @@
       "id": 89,
       "question": "Who sang the song 'Chhod Aaye Hum' from the film 'Maachis'?",
       "url": "https://example.com/song_image89.jpg",
-      "options": [
+      "option1":
         "Hariharan",
-        "Kumar Sanu",
-        "Udit Narayan",
-        "Jagjit Singh"
-      ],
+        "option2": "Kumar Sanu",
+        "option3": "Udit Narayan",
+        "option4": "Jagjit Singh"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 103
@@ -1276,12 +1276,12 @@
       "id": 90,
       "question": "Which Bollywood song features the line 'Hasi Ban Gaye Female'?",
       "url": "https://example.com/song_image90.jpg",
-      "options": [
+      "option1":
         "Jeene Laga Hoon",
-        "Tum Hi Ho",
-        "Raabta",
-        "Hasi Ban Gaye"
-      ],
+        "option2": "Tum Hi Ho",
+        "option3": "Raabta",
+        "option4": "Hasi Ban Gaye"
+      ,
       "answer": "4",
       "points": 2,
       "quiz_id": 103
@@ -1290,12 +1290,12 @@
       "id": 91,
       "question": "In the web series 'Sacred Games,' who plays the role of 'Sartaj Singh'?",
       "url": "https://example.com/webseries_image91.jpg",
-      "options": [
+      "option1":
         "Nawazuddin Siddiqui",
-        "Saif Ali Khan",
-        "Pankaj Tripathi",
-        "Vikrant Massey"
-      ],
+        "option2": "Saif Ali Khan",
+        "option3": "Pankaj Tripathi",
+        "option4": "Vikrant Massey"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 104
@@ -1304,12 +1304,12 @@
       "id": 92,
       "question": "Which OTT platform hosts the web series 'Mirzapur'?",
       "url": "https://example.com/webseries_image92.jpg",
-      "options": [
+      "option1":
         "Amazon Prime Video",
-        "Netflix",
-        "Hotstar",
-        "Voot"
-      ],
+        "option2": "Netflix",
+        "option3": "Hotstar",
+        "option4": "Voot"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 104
@@ -1318,12 +1318,12 @@
       "id": 93,
       "question": "Who is the creator of the web series 'The Family Man'?",
       "url": "https://example.com/webseries_image93.jpg",
-      "options": [
+      "option1":
         "Anurag Kashyap",
-        "Raj Nidimoru and Krishna D.K.",
-        "Zoya Akhtar",
-        "Karan Johar"
-      ],
+        "option2": "Raj Nidimoru and Krishna D.K.",
+        "option3": "Zoya Akhtar",
+        "option4": "Karan Johar"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 104
@@ -1332,12 +1332,12 @@
       "id": 94,
       "question": "Which actor plays the role of 'Kaleen Bhaiya' in the web series 'Mirzapur'?",
       "url": "https://example.com/webseries_image94.jpg",
-      "options": [
+      "option1":
         "Pankaj Tripathi",
-        "Divyendu Sharma",
-        "Ali Fazal",
-        "Vikrant Massey"
-      ],
+        "option2": "Divyendu Sharma",
+        "option3": "Ali Fazal",
+        "option4": "Vikrant Massey"
+      ,
       "answer": "1",
       "points": 2,
       "quiz_id": 104
@@ -1346,12 +1346,12 @@
       "id": 95,
       "question": "The web series 'Paatal Lok' is available on which streaming service?",
       "url": "https://example.com/webseries_image95.jpg",
-      "options": [
+      "option1":
         "Netflix",
-        "Hotstar",
-        "Amazon Prime Video",
-        "ZEE5"
-      ],
+        "option2": "Hotstar",
+        "option3": "Amazon Prime Video",
+        "option4": "ZEE5"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 104
@@ -1360,12 +1360,12 @@
       "id": 96,
       "question": "Who plays the lead role in the web series 'Made in Heaven'?",
       "url": "https://example.com/webseries_image96.jpg",
-      "options": [
+      "option1":
         "Sobhita Dhulipala",
-        "Kalki Koechlin",
-        "Shobhita Dhulipala",
-        "Jim Sarbh"
-      ],
+        "option2": "Kalki Koechlin",
+        "option3": "Shobhita Dhulipala",
+        "option4": "Jim Sarbh"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 104
@@ -1374,12 +1374,12 @@
       "id": 97,
       "question": "In the web series 'Scam 1992: The Harshad Mehta Story,' who portrays Harshad Mehta?",
       "url": "https://example.com/webseries_image97.jpg",
-      "options": [
+      "option1":
         "Rajkummar Rao",
-        "Pratik Gandhi",
-        "Vikrant Massey",
-        "Sushant Singh Rajput"
-      ],
+        "option2": "Pratik Gandhi",
+        "option3": "Vikrant Massey",
+        "option4": "Sushant Singh Rajput"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 104
@@ -1388,12 +1388,12 @@
       "id": 98,
       "question": "Which actress plays the lead role in the web series 'Delhi Crime'?",
       "url": "https://example.com/webseries_image98.jpg",
-      "options": [
+      "option1":
         "Radhika Apte",
-        "Tabu",
-        "Shefali Shah",
-        "Kirti Kulhari"
-      ],
+        "option2": "Tabu",
+        "option3": "Shefali Shah",
+        "option4": "Kirti Kulhari"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 104
@@ -1402,12 +1402,12 @@
       "id": 99,
       "question": "In the series 'The Scam,' who is portrayed by actor Shreya Dhanwanthary?",
       "url": "https://example.com/webseries_image99.jpg",
-      "options": [
+      "option1":
         "Harshad Mehta's wife",
-        "Sucheta Dalal",
-        "Shubham Mehta",
-        "Shreya Dhanwanthary"
-      ],
+        "option2": "Sucheta Dalal",
+        "option3": "Shubham Mehta",
+        "option4": "Shreya Dhanwanthary"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 104
@@ -1416,12 +1416,12 @@
       "id": 100,
       "question": "Which web series is based on Vikram Chandra's novel of the same name?",
       "url": "https://example.com/webseries_image100.jpg",
-      "options": [
+      "option1":
         "Paatal Lok",
-        "Sacred Games",
-        "Mirzapur",
-        "Made in Heaven"
-      ],
+        "option2": "Sacred Games",
+        "option3": "Mirzapur",
+        "option4": "Made in Heaven"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 104
@@ -1430,12 +1430,12 @@
       "id": 101,
       "question": "In the web series 'Family Man 2,' who plays the role of 'Srikant Tiwari'?",
       "url": "https://example.com/webseries_image101.jpg",
-      "options": [
+      "option1":
         "Manoj Bajpayee",
-        "Sharib Hashmi",
-        "Sunny Hinduja",
-        "Abhay Verma"
-      ],
+        "option2": "Sharib Hashmi",
+        "option3": "Sunny Hinduja",
+        "option4": "Abhay Verma"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 104
@@ -1444,12 +1444,12 @@
       "id": 102,
       "question": "Which Indian web series features the character 'Gaitonde'?",
       "url": "https://example.com/webseries_image102.jpg",
-      "options": [
+      "option1":
         "Mirzapur",
-        "Sacred Games",
-        "Delhi Crime",
-        "Made in Heaven"
-      ],
+        "option2": "Sacred Games",
+        "option3": "Delhi Crime",
+        "option4": "Made in Heaven"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 104
@@ -1458,12 +1458,12 @@
       "id": 103,
       "question": "In the series 'Breathe: Into the Shadows,' which actor plays the role of 'Avinash Sabharwal'?",
       "url": "https://example.com/webseries_image103.jpg",
-      "options": [
+      "option1":
         "Amit Sadh",
-        "Abhishek Bachchan",
-        "Sushant Singh Rajput",
-        "R. Madhavan"
-      ],
+        "option2": "Abhishek Bachchan",
+        "option3": "Sushant Singh Rajput",
+        "option4": "R. Madhavan"
+      ,
       "answer": "2",
       "points": 1,
       "quiz_id": 104
@@ -1472,12 +1472,12 @@
       "id": 104,
       "question": "Who is the director of the Indian web series 'Tandav'?",
       "url": "https://example.com/webseries_image104.jpg",
-      "options": [
+      "option1":
         "Anurag Kashyap",
-        "Vikramaditya Motwane",
-        "Ali Abbas Zafar",
-        "Zoya Akhtar"
-      ],
+        "option2": "Vikramaditya Motwane",
+        "option3": "Ali Abbas Zafar",
+        "option4": "Zoya Akhtar"
+      ,
       "answer": "3",
       "points": 2,
       "quiz_id": 104
@@ -1486,12 +1486,12 @@
       "id": 105,
       "question": "Which Indian web series is a fictional take on the life of Biswanath Rath?",
       "url": "https://example.com/webseries_image105.jpg",
-      "options": [
+      "option1":
         "Bard of Blood",
-        "Panchayat",
-        "Criminal Justice",
-        "Hostages"
-      ],
+        "option2": "Panchayat",
+        "option3": "Criminal Justice",
+        "option4": "Hostages"
+      ,
       "answer": "3",
       "points": 1,
       "quiz_id": 104
@@ -1500,12 +1500,12 @@
       "id": 106,
       "question": "In the web series 'Aarya,' who plays the titular role of Aarya Sareen?",
       "url": "https://example.com/webseries_image106.jpg",
-      "options": [
+      "option1":
         "Tabu",
-        "Sushmita Sen",
-        "Aishwarya Rai Bachchan",
-        "Kareena Kapoor Khan"
-      ],
+        "option2": "Sushmita Sen",
+        "option3": "Aishwarya Rai Bachchan",
+        "option4": "Kareena Kapoor Khan"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 104
@@ -1514,12 +1514,12 @@
       "id": 107,
       "question": "Which OTT platform released the web series 'Patal Lok'?",
       "url": "https://example.com/webseries_image107.jpg",
-      "options": [
+      "option1":
         "Amazon Prime Video",
-        "Netflix",
-        "Hotstar",
-        "ZEE5"
-      ],
+        "option2": "Netflix",
+        "option3": "Hotstar",
+        "option4": "ZEE5"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 104
@@ -1528,12 +1528,12 @@
       "id": 108,
       "question": "In the series 'Delhi Crime,' who plays the role of DCP Vartika Chaturvedi?",
       "url": "https://example.com/webseries_image108.jpg",
-      "options": [
+      "option1":
         "Tabu",
-        "Shefali Shah",
-        "Radhika Apte",
-        "Kirti Kulhari"
-      ],
+        "option2": "Shefali Shah",
+        "option3": "Radhika Apte",
+        "option4": "Kirti Kulhari"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 104
@@ -1542,12 +1542,12 @@
       "id": 109,
       "question": "Which web series is known for the catchphrase 'How's the josh?'",
       "url": "https://example.com/webseries_image109.jpg",
-      "options": [
+      "option1":
         "The Family Man",
-        "Uri: The Surgical Strike",
-        "Special OPS",
-        "Bard of Blood"
-      ],
+        "option2": "Uri: The Surgical Strike",
+        "option3": "Special OPS",
+        "option4": "Bard of Blood"
+      ,
       "answer": "1",
       "points": 1,
       "quiz_id": 104
@@ -1556,12 +1556,12 @@
       "id": 110,
       "question": "In the web series 'Made in Heaven,' which character owns the wedding planning company?",
       "url": "https://example.com/webseries_image110.jpg",
-      "options": [
+      "option1":
         "Karan Mehra",
-        "Tara Khanna",
-        "Kabir Basrai",
-        "Jaspreet Kaur"
-      ],
+        "option2": "Tara Khanna",
+        "option3": "Kabir Basrai",
+        "option4": "Jaspreet Kaur"
+      ,
       "answer": "2",
       "points": 2,
       "quiz_id": 104
